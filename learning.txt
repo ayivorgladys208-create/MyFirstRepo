@@ -1,1 +1,6 @@
-I learnt to clone a repositoy, rename files and write scripts 
+I learnt to - Clone a repo*:  By duplicating a GitHub repository to your local machine to work on it offline.
+- Editing locally: Made changes to files in your local repo using your preferred tools/editors.
+- Syncing changes:
+    - `git push`: Send local changes to GitHub.
+    - `git pull`: Get updates from GitHub to your local repo.
+- Workflow: Clone → Edit locally → Commit → Push to GitHub (sync).
